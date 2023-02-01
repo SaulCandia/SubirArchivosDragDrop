@@ -1,0 +1,9 @@
+C:\Users\Dev\source\repos\Subir2\Subir2\bin\Debug\Subir2.exe.config
+C:\Users\Dev\source\repos\Subir2\Subir2\bin\Debug\Subir2.exe
+C:\Users\Dev\source\repos\Subir2\Subir2\bin\Debug\Subir2.pdb
+C:\Users\Dev\source\repos\Subir2\Subir2\obj\Debug\Subir2.Form1.resources
+C:\Users\Dev\source\repos\Subir2\Subir2\obj\Debug\Subir2.Properties.Resources.resources
+C:\Users\Dev\source\repos\Subir2\Subir2\obj\Debug\Subir2.csproj.GenerateResource.cache
+C:\Users\Dev\source\repos\Subir2\Subir2\obj\Debug\Subir2.csproj.CoreCompileInputs.cache
+C:\Users\Dev\source\repos\Subir2\Subir2\obj\Debug\Subir2.exe
+C:\Users\Dev\source\repos\Subir2\Subir2\obj\Debug\Subir2.pdb

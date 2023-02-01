@@ -1,0 +1,58 @@
+C:\Users\Dev\source\repos\Subir2\Subir2\bin\Debug\Subir2.exe.config
+C:\Users\Dev\source\repos\Subir2\Subir2\bin\Debug\Subir2.exe
+C:\Users\Dev\source\repos\Subir2\Subir2\bin\Debug\Subir2.pdb
+C:\Users\Dev\source\repos\Subir2\Subir2\obj\Debug\Subir2.Form0.resources
+C:\Users\Dev\source\repos\Subir2\Subir2\obj\Debug\Subir2.Main.resources
+C:\Users\Dev\source\repos\Subir2\Subir2\obj\Debug\Subir2.FormUploading.resources
+C:\Users\Dev\source\repos\Subir2\Subir2\obj\Debug\Subir2.Properties.Resources.resources
+C:\Users\Dev\source\repos\Subir2\Subir2\obj\Debug\SubirSIGP.csproj.GenerateResource.cache
+C:\Users\Dev\source\repos\Subir2\Subir2\obj\Debug\SubirSIGP.csproj.CoreCompileInputs.cache
+C:\Users\Dev\source\repos\Subir2\Subir2\obj\Debug\Subir2.exe
+C:\Users\Dev\source\repos\Subir2\Subir2\obj\Debug\Subir2.pdb
+C:\Users\Dev\source\repos\SubirSabanaSIGP\Subir2\bin\Debug\Subir2.exe.config
+C:\Users\Dev\source\repos\SubirSabanaSIGP\Subir2\bin\Debug\Subir2.exe
+C:\Users\Dev\source\repos\SubirSabanaSIGP\Subir2\bin\Debug\Subir2.pdb
+C:\Users\Dev\source\repos\SubirSabanaSIGP\Subir2\obj\Debug\SubirSIGP.csproj.AssemblyReference.cache
+C:\Users\Dev\source\repos\SubirSabanaSIGP\Subir2\obj\Debug\Interop.MSDAOSP.dll
+C:\Users\Dev\source\repos\SubirSabanaSIGP\Subir2\obj\Debug\SubirSIGP.csproj.ResolveComReference.cache
+C:\Users\Dev\source\repos\SubirSabanaSIGP\Subir2\obj\Debug\Subir2.Form0.resources
+C:\Users\Dev\source\repos\SubirSabanaSIGP\Subir2\obj\Debug\Subir2.Main.resources
+C:\Users\Dev\source\repos\SubirSabanaSIGP\Subir2\obj\Debug\Subir2.FormUploading.resources
+C:\Users\Dev\source\repos\SubirSabanaSIGP\Subir2\obj\Debug\Subir2.FormWait.resources
+C:\Users\Dev\source\repos\SubirSabanaSIGP\Subir2\obj\Debug\Subir2.Properties.Resources.resources
+C:\Users\Dev\source\repos\SubirSabanaSIGP\Subir2\obj\Debug\SubirSIGP.csproj.GenerateResource.cache
+C:\Users\Dev\source\repos\SubirSabanaSIGP\Subir2\obj\Debug\SubirSIGP.csproj.CoreCompileInputs.cache
+C:\Users\Dev\source\repos\SubirSabanaSIGP\Subir2\obj\Debug\Subir2.exe
+C:\Users\Dev\source\repos\SubirSabanaSIGP\Subir2\obj\Debug\Subir2.pdb
+D:\Users\Dev\Desktop\New folder\Subir2\bin\Debug\Subir2.exe.config
+D:\Users\Dev\Desktop\New folder\Subir2\bin\Debug\Subir2.exe
+D:\Users\Dev\Desktop\New folder\Subir2\bin\Debug\Subir2.pdb
+D:\Users\Dev\Desktop\New folder\Subir2\obj\Debug\SubirSIGP.csproj.AssemblyReference.cache
+D:\Users\Dev\Desktop\New folder\Subir2\obj\Debug\Interop.MSDAOSP.dll
+D:\Users\Dev\Desktop\New folder\Subir2\obj\Debug\SubirSIGP.csproj.ResolveComReference.cache
+D:\Users\Dev\Desktop\New folder\Subir2\obj\Debug\Subir2.FormEscoger.resources
+D:\Users\Dev\Desktop\New folder\Subir2\obj\Debug\Subir2.Form0.resources
+D:\Users\Dev\Desktop\New folder\Subir2\obj\Debug\Subir2.Main.resources
+D:\Users\Dev\Desktop\New folder\Subir2\obj\Debug\Subir2.FormUploading.resources
+D:\Users\Dev\Desktop\New folder\Subir2\obj\Debug\Subir2.FormWait.resources
+D:\Users\Dev\Desktop\New folder\Subir2\obj\Debug\Subir2.Properties.Resources.resources
+D:\Users\Dev\Desktop\New folder\Subir2\obj\Debug\SubirSIGP.csproj.GenerateResource.cache
+D:\Users\Dev\Desktop\New folder\Subir2\obj\Debug\SubirSIGP.csproj.CoreCompileInputs.cache
+D:\Users\Dev\Desktop\New folder\Subir2\obj\Debug\Subir2.exe
+D:\Users\Dev\Desktop\New folder\Subir2\obj\Debug\Subir2.pdb
+D:\Users\Dev\Desktop\SubirSabanasV2\Subir2\bin\Debug\Subir2.exe.config
+D:\Users\Dev\Desktop\SubirSabanasV2\Subir2\bin\Debug\Subir2.exe
+D:\Users\Dev\Desktop\SubirSabanasV2\Subir2\bin\Debug\Subir2.pdb
+D:\Users\Dev\Desktop\SubirSabanasV2\Subir2\obj\Debug\SubirSIGP.csproj.AssemblyReference.cache
+D:\Users\Dev\Desktop\SubirSabanasV2\Subir2\obj\Debug\Interop.MSDAOSP.dll
+D:\Users\Dev\Desktop\SubirSabanasV2\Subir2\obj\Debug\SubirSIGP.csproj.ResolveComReference.cache
+D:\Users\Dev\Desktop\SubirSabanasV2\Subir2\obj\Debug\Subir2.FormEscoger.resources
+D:\Users\Dev\Desktop\SubirSabanasV2\Subir2\obj\Debug\Subir2.Form0.resources
+D:\Users\Dev\Desktop\SubirSabanasV2\Subir2\obj\Debug\Subir2.Main.resources
+D:\Users\Dev\Desktop\SubirSabanasV2\Subir2\obj\Debug\Subir2.FormUploading.resources
+D:\Users\Dev\Desktop\SubirSabanasV2\Subir2\obj\Debug\Subir2.FormWait.resources
+D:\Users\Dev\Desktop\SubirSabanasV2\Subir2\obj\Debug\Subir2.Properties.Resources.resources
+D:\Users\Dev\Desktop\SubirSabanasV2\Subir2\obj\Debug\SubirSIGP.csproj.GenerateResource.cache
+D:\Users\Dev\Desktop\SubirSabanasV2\Subir2\obj\Debug\SubirSIGP.csproj.CoreCompileInputs.cache
+D:\Users\Dev\Desktop\SubirSabanasV2\Subir2\obj\Debug\Subir2.exe
+D:\Users\Dev\Desktop\SubirSabanasV2\Subir2\obj\Debug\Subir2.pdb
